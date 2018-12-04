@@ -1,0 +1,11 @@
+{
+  "name": "k-rox-v.1",
+  "version": "1.0.0",
+  "description": "Indonesia",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
